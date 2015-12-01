@@ -1,0 +1,9 @@
+c:\users\dev-pc\documents\visual studio 2015\Projects\RFID\RFID\bin\Debug\RFID.exe.config
+C:\Users\dev-pc\Documents\Visual Studio 2015\Projects\RFID\RFID\bin\Debug\RFID.exe
+C:\Users\dev-pc\Documents\Visual Studio 2015\Projects\RFID\RFID\bin\Debug\RFID.pdb
+C:\Users\dev-pc\Documents\Visual Studio 2015\Projects\RFID\RFID\obj\Debug\RFID.csprojResolveAssemblyReference.cache
+C:\Users\dev-pc\Documents\Visual Studio 2015\Projects\RFID\RFID\obj\Debug\RFID.Form1.resources
+C:\Users\dev-pc\Documents\Visual Studio 2015\Projects\RFID\RFID\obj\Debug\RFID.Properties.Resources.resources
+C:\Users\dev-pc\Documents\Visual Studio 2015\Projects\RFID\RFID\obj\Debug\RFID.csproj.GenerateResource.Cache
+C:\Users\dev-pc\Documents\Visual Studio 2015\Projects\RFID\RFID\obj\Debug\RFID.exe
+C:\Users\dev-pc\Documents\Visual Studio 2015\Projects\RFID\RFID\obj\Debug\RFID.pdb
